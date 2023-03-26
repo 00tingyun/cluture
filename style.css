@@ -1,0 +1,34 @@
+@charset "utf-8";
+header {
+	height: 40px;
+	padding-right: auto;
+	padding-left: auto;
+	color: #C49E9F;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.h {
+}
+body p {
+	border-radius: 5px;
+	float: none;
+	opacity: 1;
+	color: #605656;
+	width: 600px;
+	height: auto;
+	padding-right: auto;
+	padding-left: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+main {
+	color: #7D6F7D;
+	padding-right: auto;
+	padding-left: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
